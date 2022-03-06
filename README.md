@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/flo1244/superhero-marvel-api-angular)
-- Live Site URL: [Add live site URL here](https://flo1244.github.io/superhero-marvel-api-angular/superhero-marvel-api-angular/)
+- Solution URL: [Solution](https://github.com/flo1244/superhero-marvel-api-angular)
+- Live Site URL: [Live Page](https://flo1244.github.io/superhero-marvel-api-angular/superhero-marvel-api-angular/)
 
 ## My process
 - I created the project in the Angular CLI. 
